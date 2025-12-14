@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "飛燕",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-14T07:56:53.987933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "飛燕",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_飛燕_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "飛燕",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_飛燕_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "飛燕 - Hien",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_飛燕_-_Hien_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "飛燕",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_飛燕_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "飛燕",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/05_飛燕_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "飛燕  ~ www.urajp.eu ~",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_飛燕_~_www.urajp.eu_~_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飛燕",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_飛燕_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "飛燕",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_飛燕_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "飛燕",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_飛燕_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "飛燕",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_飛燕_米津玄師.txt"
+    }
+  ]
+}
